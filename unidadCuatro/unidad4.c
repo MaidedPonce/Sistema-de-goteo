@@ -34,7 +34,7 @@ int main()
 
         if (campesino[i].altura == campesino[i].base || campesino[i].altura == 0 || campesino[i].base == 0)
         {
-            printf("No podemos hacer calculos si no hay una medida menor a la otra, asegurese de que sus datos son correctos.");
+            printf(" No podemos hacer calculos si no hay una medida menor a la otra, asegurese de que sus datos son correctos.");
             return 0;
         }
     }
